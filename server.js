@@ -18,7 +18,7 @@ const userHealthData = {};
 const getMockData = (userId) => ({
   user_id: userId,
   source: "mock",
-  sleep_score: 76,
+  sleep_score: 99,
   readiness_score: 84,
   hrv_ms: 58,
   resting_hr: 52,
